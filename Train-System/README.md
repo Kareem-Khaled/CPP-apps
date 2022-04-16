@@ -5,5 +5,5 @@
   <li>some inquiers such as the number of available and reserved seats for now in each car in train</li> 
 </ul>
 <h3>This is a screenshot of the running app</h3>
-![train](https://user-images.githubusercontent.com/53629881/163654209-6fa010e3-9d5e-4a1d-be19-0edd947c57d3.PNG)
+![train](https://user-images.githubusercontent.com/53629881/163654280-a9c8d108-e2f1-47c4-adf9-8f191b0a4af6.PNG)
 <h3>- <em>Tools and technologies used: C++, Visual Studio.</h3>
